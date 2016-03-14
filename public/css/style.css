@@ -143,7 +143,7 @@ span.timestamp {
 
 .inputMessage {
   border: 10px solid #8370B5;
-  bottom: 0;
+  bottom: 50px;
   height: 60px;
   left: 0;
   outline: none;
@@ -151,5 +151,11 @@ span.timestamp {
   position: absolute;
   right: 0;
   width: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 15px;
+    margin: 0px 15px;
 }
 
